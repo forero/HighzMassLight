@@ -1,0 +1,2 @@
+DATA: @erebos:/store/dpk01/forero/BABEL/WORK/BOX50/WMAP1/
+CODE: @erebos:/store/dpk01/forero/BEAST/GadgetSpectra
